@@ -1,4 +1,5 @@
 
 Weather Report
 
-Date		Max		Min
+Date		Max (F)		Min (F)
+7/26		87		64
